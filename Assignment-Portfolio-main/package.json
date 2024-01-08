@@ -1,0 +1,11 @@
+{
+    "name": "assignment-portfolio",
+    "description": "Website that hosts past, present, and future assignments for Software Engineering",
+    "version": "0.0.1",
+    "private": true,
+    "license": "",
+    "author": "",
+    "dependencies": {
+        "express": "^4.18.1"
+    }
+}
